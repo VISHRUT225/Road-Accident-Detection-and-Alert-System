@@ -1,0 +1,17 @@
+flask
+flask_sqlalchemy
+streamlit
+pandas
+requests # We'll use this for testing
+yolov10
+supervision
+torch
+torchvision
+timm
+ultralytics
+safetensors
+opencv-python
+flask-socketio
+eventlet
+flask-pymongo
+streamlit_option_menu
